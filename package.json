@@ -1,7 +1,7 @@
 {
-  "name": "client-website-brasil-te-ama",
+  "name": "client-website-template",
   "version": "1.0.0",
-  "description": "Brasil Te Ama - Website & Design System",
+  "description": "Generic client website template — Reusable blueprint for building modern client websites with design system integration",
   "license": "MIT",
   "author": "Amanda Almeida <hello@amandaalmeidda.com>",
   "main": "src/index.ts",
